@@ -9,3 +9,5 @@ Since it is a personal blog, I will run it in my own way:
 1. You are welcome to leave your comments, but I may not respond to you
 2. I may delete comments that I don't feel comfortable with 
 3. The blog may be closed any time based on my own interests
+
+All articles can be found in the Issues.
